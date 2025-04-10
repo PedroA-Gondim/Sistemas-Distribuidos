@@ -1,5 +1,6 @@
 # Sistemas-Distribuidos
 Projeto final desenvolvido para a disciplina de Sistemas Distribuídos
+![Representção do projeto](https://paulo-coelho.github.io/ds_notes/drawings/projeto.drawio-0.svg)
 
 - Requisitos a serem atendidos:
   - [ ] Utilizar, obrigatoriamente, gRPC para comunicação entre clientes e servidores.  
